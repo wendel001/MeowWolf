@@ -29,7 +29,7 @@ header nav a {
 	/* Links in header */
 	padding-right: 2%;
 }
-#content #mainContent h1, #content #mainContent h2, h3 {
+#content #mainContent h1, #content #mainContent {
 	/* Styling for main headings */
 	color: rgba(0,146,146,1.00);
 		font-family: 'Titan One', cursive;
@@ -42,11 +42,13 @@ h1
 
 h3
 {
+	font-size: 2.5em;
 	font-family: "yink", sans-serif;
 font-weight: 400;
 font-style: normal;
+		letter-spacing: 0.1em;
 }
-#content #mainContent h3, ul, li, p {
+#content #mainContent ul, li, p {
 	/*Captions ot Taglines */
 	font-family: sans-serif;
 	font-style: normal;
