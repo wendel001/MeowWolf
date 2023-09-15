@@ -34,6 +34,11 @@ header nav a {
 	color: rgba(0,146,146,1.00);
 		font-family: 'Titan One', cursive;
 }
+h1
+{
+	font-size: 4em;
+	letter-spacing: 0.1em;
+}
 #content #mainContent h3, ul, li, p {
 	/*Captions ot Taglines */
 	font-family: sans-serif;
