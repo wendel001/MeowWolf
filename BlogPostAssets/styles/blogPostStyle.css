@@ -3,7 +3,7 @@
 	/*Header */
 	background-color: rgba(208,207,207,1.00);
 	overflow: auto;
-	font-family: montserrat, sans-serif;
+	font-family: sans-serif;
 	font-style: normal;
 	font-weight: 400;
 }
@@ -29,16 +29,17 @@ header nav a {
 	/* Links in header */
 	padding-right: 2%;
 }
-#content #mainContent h1, #content #mainContent h2 ul li {
+#content #mainContent h1, #content #mainContent h2, h3, ul, li, p {
 	/* Styling for main headings */
-	color: rgba(146,146,146,1.00);
+	color: rgba(0,146,146,1.00);
+		font-family: 'Titan One', cursive;
 }
-#content #mainContent h3 ul li {
+#content #mainContent h3, ul, li {
 	/*Captions ot Taglines */
-	font-family: source-sans-pro, sans-serif;
+	font-family: sans-serif;
 	font-style: normal;
 	font-weight: 200;
-	color: rgba(146,146,146,1.00);
+	color: rgba(0,146,146,1.00);
 }
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
@@ -47,8 +48,8 @@ header nav a {
 }
 #content #mainContent p ul li {
 	/* All paragraphs under maincontent */
-	color: rgba(146,146,146,1.00);
-	font-family: source-sans-pro, sans-serif;
+	color: rgba(0,146,146,1.00);
+	font-family: sans-serif;
 	font-style: normal;
 	font-weight: 200;
 	text-align: justify;
@@ -76,7 +77,7 @@ footer article {
 	padding-left: 2%;
 	padding-right: 2%;
 	text-align: justify;
-	font-family: source-sans-pro, sans-serif;
+	font-family: sans-serif;
 	font-style: normal;
 	font-weight: 200;
 	color: rgba(146,146,146,1.00);
