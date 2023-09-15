@@ -238,7 +238,11 @@ footer {
 	/* Header */
 	width: 100%;
 }
+	h1 {
+	font-size: 3em
 }
+}
+
 
 /* Mobile view */
 @media screen and (max-width:480px) {
@@ -289,5 +293,8 @@ footer {
 #content footer article {
 	/* Each foter article */
 	width: 96%;
+}
+	h1 {
+	font-size: 2em
 }
 }
