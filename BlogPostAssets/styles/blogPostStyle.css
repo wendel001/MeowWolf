@@ -29,12 +29,12 @@ header nav a {
 	/* Links in header */
 	padding-right: 2%;
 }
-#content #mainContent h1, #content #mainContent h2, h3, ul, li, p {
+#content #mainContent h1, #content #mainContent h2, h3 {
 	/* Styling for main headings */
 	color: rgba(0,146,146,1.00);
 		font-family: 'Titan One', cursive;
 }
-#content #mainContent h3, ul, li {
+#content #mainContent h3, ul, li, p {
 	/*Captions ot Taglines */
 	font-family: sans-serif;
 	font-style: normal;
