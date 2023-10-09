@@ -32,19 +32,21 @@ header nav a {
 #content #mainContent h1, #content #mainContent {
 	/* Styling for main headings */
 	color: rgba(0,146,146,1.00);
-		font-family: 'Titan One', cursive;
 }
 h1
 {
 	font-size: 4em;
 	letter-spacing: 0.1em;
+	font-family: "droog", sans-serif;
+font-weight: 900;
+font-style: normal;
 }
 
 h3
 {
 	font-size: 2.5em;
-	font-family: "yink", sans-serif;
-font-weight: 400;
+	font-family: "droog", sans-serif;
+font-weight: 900;
 font-style: normal;
 		letter-spacing: 0.1em;
 }
