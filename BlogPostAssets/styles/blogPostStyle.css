@@ -73,7 +73,7 @@ h3
 	font-style: normal;
 	font-weight: 200;
 	color: rgba(0,146,146,1.00);
-	line-height: 2;
+	line-height: 2.5;
 }
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
@@ -87,6 +87,7 @@ h3
 	font-style: normal;
 	font-weight: 200;
 	text-align: justify;
+	font-size: 1.25em;
 }
 #content #mainContent #authorInfo {
 	/* Author info section */
@@ -103,6 +104,7 @@ h3
 	padding-top: 0px;
 	padding-bottom: 11px;
 	padding-right: 2%;
+	font-size: 1.25em;
 }
 footer article {
 	/* Footer articles */
