@@ -227,9 +227,10 @@ footer {
 	padding-bottom: 8px;
 	width: 96%;
 }
-#content .notOnDesktop input {
+/*
+	#content .notOnDesktop input {
 	height: 28px;
-}
+}*/
 #mainContent {
 	/* Container for the blog post */
 	padding-top: 0px;
@@ -282,6 +283,8 @@ footer {
 	h1 {
 	font-size: 3em
 }
+	h3
+	font-size: 1.5em;
 }
 
 
@@ -338,4 +341,7 @@ footer {
 	h1 {
 	font-size: 2em
 }
+	h3 {
+		font-size: .5em;
+	}
 }
