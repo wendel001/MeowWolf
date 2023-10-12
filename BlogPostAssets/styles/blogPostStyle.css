@@ -67,6 +67,7 @@ font-style: normal;
 }
 #content #mainContent ul, li, p {
 	/*Captions ot Taglines */
+	font-size: 1.5em;
 	font-family: sans-serif;
 	font-style: normal;
 	font-weight: 200;
@@ -209,8 +210,8 @@ footer {
 .green {
 	color: green
 }
-.red {
-	color: red
+.magenta {
+	color: #ec0d89
 }
 .white {
 	color: white
