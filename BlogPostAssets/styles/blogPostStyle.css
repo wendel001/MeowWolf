@@ -31,7 +31,7 @@ header nav a {
 }
 #content #mainContent h1, #content #mainContent {
 	/* Styling for main headings */
-	color: rgba(0,146,146,1.00);
+color: rgba(0,146,146,1.00);
 }
 body{
 	background-color: black;
@@ -43,17 +43,17 @@ h1
 	font-size: 8em;
 	letter-spacing: 0.1em;
 	font-family: "droog", sans-serif;
-font-weight: 900;
-font-style: normal;
+	font-weight: 900;
+	font-style: normal;
 }
 
 h2
 {
-		font-size: 2em;
+	font-size: 2em;
 	font-family: "droog", sans-serif;
-font-weight: 900;
-font-style: normal;
-		letter-spacing: 0.1em;
+	font-weight: 900;
+	font-style: normal;
+	letter-spacing: 0.1em;
 	color: #ec0d89
 }
 
@@ -61,18 +61,19 @@ h3
 {
 	font-size: 2.5em;
 	font-family: "droog", sans-serif;
-font-weight: 900;
-font-style: normal;
-		letter-spacing: 0.1em;
+	font-weight: 900;
+	font-style: normal;
+	letter-spacing: 0.1em;
 	color: #ec0d89
 }
 #content #mainContent ul, li, p {
 	/*Captions ot Taglines */
-	font-size: 1.5em;
+	font-size: 1.25em;
 	font-family: sans-serif;
 	font-style: normal;
 	font-weight: 200;
-	color: rgba(0,146,146,1.00);
+	color: rgba(0,146,146,1.00)
+	line-height: 2;
 }
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
@@ -222,7 +223,7 @@ footer {
 @media screen and (max-width:769px) {
 .notOnDesktop {
 	/* Search box shown only in mobile view and Tablet view */
-	display: block;
+	display: none;
 	text-align: right;
 	padding-right: 8px;
 	padding-top: 8px;
