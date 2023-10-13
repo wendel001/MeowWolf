@@ -78,7 +78,7 @@ h3
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
 	width: 100%;
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(0,0,0,1.00);
 }
 #content #mainContent p ul li {
 	/* All paragraphs under maincontent */
